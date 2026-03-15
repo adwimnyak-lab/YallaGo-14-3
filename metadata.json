@@ -1,0 +1,8 @@
+{
+  "name": "YallaGo",
+  "description": "A comprehensive delivery platform for businesses, couriers, and customers with AI-powered menu scanning and real-time tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
